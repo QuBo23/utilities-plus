@@ -6,7 +6,7 @@ Commands List
 
 ### Generic ###
 
-Command und Aliases | Beschreibung | Nutzung
+Main Command | Info |Other Commands
 ----------------|--------------|-------
 `+help` | Open the help menu | `+help`, `+help2`, `+help3`, `+help4`
 
