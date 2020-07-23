@@ -12,10 +12,9 @@ Main Command | Info |Other Commands
 
 ### Images ###
 [![Help1](https://cdn.discordapp.com/attachments/735768680859828356/735778004235452467/help1.png)]
-
-
-
-
+[![Help2](https://cdn.discordapp.com/attachments/735768680859828356/735778007440162886/help2.png)]
+[![Help3](https://cdn.discordapp.com/attachments/735768680859828356/735778008715100220/help3.png)]
+[![Help4](https://cdn.discordapp.com/attachments/735768680859828356/735778013714710562/help4.png)]
 
 
 Support
