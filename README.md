@@ -1,9 +1,8 @@
-=====================
-[![Discord Server](https://img.shields.io/badge/Support-Discord%20Server-blue.svg)](https://discord.gg/kPMbPDc)
+[![Discord Server](https://img.shields.io/badge/Support-Discord%20Server-blue.svg)](https://discord.gg/N5cvQT7)
 
 Commands List
 -------------
-**Info:** Diese Liste gilt für den Standardprefix `:`
+**Info:**This is the list of all commands `:`
 
 ### Generic ###
 
