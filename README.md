@@ -2,7 +2,7 @@
 
 Commands List
 -------------
-**Info:**This is the list of all commands `:`
+**Info:** This is the list of all commands `:`
 
 ### Generic ###
 
