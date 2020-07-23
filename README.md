@@ -8,7 +8,7 @@ Commands List
 
 Command und Aliases | Beschreibung | Nutzung
 ----------------|--------------|-------
-`:help` | Zeigt eine Liste aller öffentlichen Commands | `:help`, `:help kawaii`
+`+help` | Open the help menu | `+help`, `+help2`, `+help3`, `+help4`
 
 ### Forum ###
 
