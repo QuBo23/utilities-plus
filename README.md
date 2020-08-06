@@ -6,9 +6,7 @@ Commands List
 
 ### Generic ###
 
-Main Command | Info
-----------------|--------------|-------
-`+help` | Open the help menu
+Use `+help` to see the full list of commands.
 
 ### Images ###
 ![Help1](https://cdn.discordapp.com/attachments/732573817649496145/740900946128666664/help.png)
@@ -18,5 +16,5 @@ Main Command | Info
 
 Support
 -------------
-Utilities+ Support Server: `https://discord.gg/N5cvQT7`
+Utilities+ Support Server: `https://discord.gg/3cDkFuk`
 
