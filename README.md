@@ -11,10 +11,9 @@ Main Command | Info |Other Commands
 `+help` | Open the help menu | `+help`, `+help2`, `+help3`, `+help4`
 
 ### Images ###
-![Help1](https://cdn.discordapp.com/attachments/735768680859828356/735778004235452467/help1.png)
-![Help2](https://cdn.discordapp.com/attachments/735768680859828356/735778007440162886/help2.png)
-![Help3](https://cdn.discordapp.com/attachments/735768680859828356/735778008715100220/help3.png)
-![Help4](https://cdn.discordapp.com/attachments/735768680859828356/735778013714710562/help4.png)
+![Help1](https://cdn.discordapp.com/attachments/732573817649496145/740900946128666664/help.png)
+![Help2](https://cdn.discordapp.com/attachments/732573817649496145/740900946464342076/invite.png)
+![Help3](https://cdn.discordapp.com/attachments/732573817649496145/740900954408222790/support.png)
 
 
 Support
