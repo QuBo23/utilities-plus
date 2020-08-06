@@ -6,9 +6,9 @@ Commands List
 
 ### Generic ###
 
-Main Command | Info |Other Commands
+Main Command | Info
 ----------------|--------------|-------
-`+help` | Open the help menu | `+help`, `+help2`, `+help3`, `+help4`
+`+help` | Open the help menu
 
 ### Images ###
 ![Help1](https://cdn.discordapp.com/attachments/732573817649496145/740900946128666664/help.png)
