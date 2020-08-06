@@ -1,4 +1,4 @@
-[![Discord Server](https://img.shields.io/badge/Support-Discord%20Server-blue.svg)](https://discord.gg/N5cvQT7)
+[![Discord Server](https://img.shields.io/badge/Support-Discord%20Server-blue.svg)](https://discord.gg/3cDkFuk)
 
 Commands List
 -------------
